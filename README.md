@@ -2,6 +2,8 @@
 
 AI tries to balance a pole on a cart. This project was a procrastinating method when author had quizzes to prepare for but didn't feel like doing so XD. A neural Network is trining to balance a pole which is stated from a random angle by moving the cart left or right(with acc of 2g).
 
+<img src="Screenshot from 2021-04-05 21-29-53.png" width=50%><img src="Screenshot from 2021-04-05 21-29-54.png" width=50%>
+
 ## Dependencies
 * Numpy
 * pygame
